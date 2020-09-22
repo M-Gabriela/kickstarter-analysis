@@ -2,7 +2,7 @@
 
 Analysis of Kickstarter Campaigns to help Luoise set the correct parameters on her campaign 
 
-![image]/Users/mgabrielaod/Desktop/Analysis Projects/Crowdfunding Analysis/Parent Category Outcomes.png
+![image](/Users/mgabrielaod/Desktop/Analysis Projects/Crowdfunding Analysis/Parent Category Outcomes.png)
 
 ![image]/Users/mgabrielaod/Desktop/Analysis Projects/Crowdfunding Analysis/Outcomes based on launch date .png
 
