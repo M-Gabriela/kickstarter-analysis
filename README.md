@@ -43,9 +43,9 @@ Based on "Outcomes Based on Goals", we can conclude that there is a higher rate 
 
 Our dataset has extreme datapoint, therefore, some large values are driving the  distributions. For example, If when analyzing the “Outcomes Based on Goal” we say that all Goals with a successful rate of > 65% are most likely to be pledged, we would be providing an inaccurate analysis since we can see that: 
 
-— If the Goal is less than 5,000 we get > 70% of success.
-— If the Goal is between 5,000 and 34,999 we have between 55% and 27% of success.
-— If the Goal is between 35,000 and 44,999 we have 67% chances of success. 
+- If the Goal is less than 5,000 we get > 70% of success.
+- If the Goal is between 5,000 and 34,999 we have between 55% and 27% of success.
+- If the Goal is between 35,000 and 44,999 we have 67% chances of success. 
 
 As we can observe, even for some datapoint with considerable larger amount of Goals there is a high rate of success. As a result, it’s challenging to provide advise based only on “Analysis of Outcomes Based on Goals” and “Analysis of Outcomes Based on Launch Date” without calculating the descriptive statistics, specially median and quartiles, to identify our outliers and have a more robust conclusion.
 
